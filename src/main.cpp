@@ -39,6 +39,7 @@ int calculator() {
         break;
 
     };
+    return 0;
 }
 
 int main() {
